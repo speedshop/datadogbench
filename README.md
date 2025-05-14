@@ -32,6 +32,10 @@ Calculating -------------------------------------
           cache.read    551.778k (± 3.2%) i/s    (1.81 μs/i) -      2.792M in   5.065029s
 ```
 
+## Credit
+
+Initial discovery by [rianmcguire](https://github.com/rianmcguire)
+
 ## Usage
 
 Uses Docker to get a DD agent.
